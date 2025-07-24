@@ -82,7 +82,7 @@ export default function Footer() {
               <p className="text-gray-400">Sat-Sun: 9:00 am – 5:00 pm</p>
             </div>
             <div className="text-center md:text-right">
-              <p className="text-gray-400">© 2024 Vision & Motion Facades Ltd. All rights reserved.</p>
+              <p className="text-gray-400">© 2025 Vision & Motion Facades Ltd. All rights reserved.</p>
             </div>
           </div>
         </div>
